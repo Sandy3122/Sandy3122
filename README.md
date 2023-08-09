@@ -7,7 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/seeram_sandeep" target="blank"><img src="https://img.shields.io/twitter/follow/seeram_sandeep?logo=twitter&style=for-the-badge" alt="seeram_sandeep" /></a> </p>
 
+- 🔭 I’m currently working on **ChatBots**
+
+- 🌱 I’m currently learning **Azzure-CLU**
+
 - 📫 How to reach me **sandeepseeram4@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Ivz2F1N917GdEL0ojnYGctwba244x0s2/view?usp=sharing](https://drive.google.com/file/d/1Ivz2F1N917GdEL0ojnYGctwba244x0s2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
