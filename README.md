@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **ChatBots**
 
-- 🌱 I’m currently learning **Azzure-CLU**
+- 🌱 I’m currently learning **Azure-CLU**
 
 - 📫 How to reach me **sandeepseeram4@gmail.com**
 
